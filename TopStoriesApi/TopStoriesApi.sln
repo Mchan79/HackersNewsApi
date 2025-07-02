@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36212.18 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopStoriesApi", "TopStoriesApi.csproj", "{9167F04D-77C1-4E83-85C4-FB713E45C2B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopStoriesConsoleApp", "..\TopStoriesConsoleApp\TopStoriesConsoleApp.csproj", "{3A257CEF-57AB-4EB3-AC0B-0260C04CB427}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9167F04D-77C1-4E83-85C4-FB713E45C2B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9167F04D-77C1-4E83-85C4-FB713E45C2B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9167F04D-77C1-4E83-85C4-FB713E45C2B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A257CEF-57AB-4EB3-AC0B-0260C04CB427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A257CEF-57AB-4EB3-AC0B-0260C04CB427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A257CEF-57AB-4EB3-AC0B-0260C04CB427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A257CEF-57AB-4EB3-AC0B-0260C04CB427}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
