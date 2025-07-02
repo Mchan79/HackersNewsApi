@@ -16,7 +16,7 @@ This project provides a RESTful API to fetch the top N best stories from the Hac
 1. Clone the repository.
 2. Run `dotnet restore` in both projects.
 3. Start the API project:
-4. Test with the console app:
+4. Test with the console app (includes logic to rate limiting):
 
 ## Assumptions
 
